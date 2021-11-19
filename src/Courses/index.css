@@ -1,0 +1,14 @@
+.flashcard-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.flashcard-list .flashcard {
+  width: 300px;
+  padding: 10px;
+  margin: 0;
+  border: 1px solid;
+  border-radius: 10px;
+}
